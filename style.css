@@ -41,3 +41,26 @@ html, body {
 	padding: 20px 26px;
 	max-height: 80px;
 }
+
+/* Jumbotron */
+.jumbotron {
+	background: url("images/bg.jpg") no-repeat center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 480px;
+	color: #E52364;
+}
+
+/* Supporting */
+.supporting {
+	margin: 60px 0;
+}
+
+.supporting .btn {
+	padding: 10px 80px;
+	border: 1px solid #30627E;
+	border-radius: 0;
+	margin-top: 20px;
+}
