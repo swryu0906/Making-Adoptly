@@ -64,3 +64,20 @@ html, body {
 	border-radius: 0;
 	margin-top: 20px;
 }
+
+/* Footer */
+.footer {
+	background-color: #E52364;
+	padding: 26px 0;
+	color: #fff;
+}
+
+.footer li {
+	display: inline;
+	margin: 0 20px;
+}
+
+.footer a {
+	text-decoration: none;
+	color: #fff;
+}
