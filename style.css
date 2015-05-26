@@ -8,3 +8,36 @@ html, body {
 	width: 940px;
 	margin: 0 auto;
 }
+
+/* Header */
+.header {
+	background-color: #30627E;
+	height: 80px;
+	font-size: 20px;
+	text-align: center;
+}
+
+.header ul,
+.header li,
+.header a {
+	margin: 0;
+	padding: 0;
+}
+
+.header li {
+	display: inline-block;
+}
+
+.header a {
+	display: block;
+	padding: 28px 38px;
+	text-decoration: none;
+	color: #fff;
+}
+
+.header a:hover {
+	background-color: #E52364;
+	font-size: 28px;
+	padding: 20px 26px;
+	max-height: 80px;
+}
